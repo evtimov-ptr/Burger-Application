@@ -21,3 +21,11 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+config/env.js
+config/webpackDevServer.config.js
+config/webpack.config.prod.js
+config/polyfills.js
+config/jest/cssTransform.js
+config/jest/fileTransform.js
+config/paths.js
+config/webpack.config.dev.js
